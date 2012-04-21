@@ -1,6 +1,6 @@
 {
   "name": "patchy",
-  "description": "An abstraction layer for Google's DiffMatchPatch code",
+  "description": "An abstraction layer for patching using DiffMatchPatch",
   "keywords": [
     "diffmatchpatch",
     "versioning",
